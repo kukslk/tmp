@@ -1,2 +1,2 @@
 # tmp
-netlas.io
+https://github.com/Ullaakut/cameradar
