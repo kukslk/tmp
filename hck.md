@@ -15,4 +15,4 @@
 
 # LINKS
 
-[reverse shell generator] (https://www.revshells.com/)
+[reverse shell generator] (https://www.revshells.com)
