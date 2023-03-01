@@ -12,3 +12,7 @@
 * Cyclops
 
 # OS
+
+# LINKS
+
+reverse shell generator (https://www.revshells.com/)
