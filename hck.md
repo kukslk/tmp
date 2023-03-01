@@ -1,5 +1,14 @@
 #WEB
 
-'ports=$( -p- --min-rate= $1 | grep ^[0-9] | cut -d "/" -f 1 | tr "\n" "," | sed $//)'
+##XSS
+###XSS Vulnerability Scanner Tool's :
+*XSStrike
+*XSStrike
+*BruteXSS Terminal
+*BruteXSS GUI
+*XSS Scanner Online
+*XSSer
+*xsscrapy
+*Cyclops
 
 #OS
