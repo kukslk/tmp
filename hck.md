@@ -1,5 +1,5 @@
 # WEB
-
+```
 ## XSS
 
 ### XSS Vulnerability Scanner Tool's :
