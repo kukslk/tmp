@@ -1,8 +1,8 @@
-#WEB
+# WEB
 
-##XSS
+## XSS
 
-###XSS Vulnerability Scanner Tool's :
+### XSS Vulnerability Scanner Tool's :
 *XSStrike
 *XSStrike
 *BruteXSS Terminal
@@ -12,4 +12,4 @@
 *xsscrapy
 *Cyclops
 
-#OS
+# OS
