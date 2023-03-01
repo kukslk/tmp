@@ -1,6 +1,7 @@
 #WEB
 
 ##XSS
+
 ###XSS Vulnerability Scanner Tool's :
 *XSStrike
 *XSStrike
