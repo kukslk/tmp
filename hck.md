@@ -20,3 +20,4 @@
 
 [reverse shell generator](https://www.revshells.com)
 [GTFOBins - UNIX LPE](https://gtfobins.github.io/)
+[pspy - unprivileged Linux process snooping](https://github.com/DominicBreuker/pspy)
