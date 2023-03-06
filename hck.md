@@ -11,7 +11,7 @@
 * xsscrapy
 * Cyclops
 
-##REVERSE
+## REVERSE
 * rlwrap -cAr nc -lnvp PORT
 
 # OS
