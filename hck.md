@@ -11,6 +11,9 @@
 * xsscrapy
 * Cyclops
 
+##REVERSE
+* rlwrap -cAr nc -lnvp PORT
+
 # OS
 
 # LINKS
