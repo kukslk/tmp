@@ -16,6 +16,9 @@
 
 # OS
 
+# UTILS
+* CrackMapExec - helps automate assessing the security of large Active Directory networks
+
 # LINKS
 
 * [reverse shell generator](https://www.revshells.com)
