@@ -18,7 +18,7 @@
 
 # UTILS
 * CrackMapExec - helps automate assessing the security of large Active Directory networks
-
+* [firepwd](https://raw.githubusercontent.com/lclevy/firepwd/master/firepwd.py) -  decode Firefox passwords
 # LINKS
 
 * [reverse shell generator](https://www.revshells.com)
