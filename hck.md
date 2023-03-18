@@ -24,4 +24,4 @@
 * [reverse shell generator](https://www.revshells.com)
 * [GTFOBins - UNIX LPE](https://gtfobins.github.io/)
 * [pspy - unprivileged Linux process snooping](https://github.com/DominicBreuker/pspy)
-* [Flask Unsign](https://github.com/Paradoxis/Flask-Unsign)
+* [Flask Unsign - Command line tool to fetch, decode, brute-force and craft session cookies of a Flask application](https://github.com/Paradoxis/Flask-Unsign)
