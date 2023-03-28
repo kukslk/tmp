@@ -20,6 +20,7 @@
 * CrackMapExec - helps automate assessing the security of large Active Directory networks
 * [firepwd](https://raw.githubusercontent.com/lclevy/firepwd/master/firepwd.py) -  decode Firefox passwords
 # LINKS
+*[Chisel is a fast TCP/UDP tunnel, transported over HTTP, secured via SSH](https://github.com/jpillora/chisel)
 *[Docker Enumeration, Escalation of Privileges and Container Escapes](https://github.com/stealthcopter/deepce)
 * [reverse shell generator](https://www.revshells.com)
 * [GTFOBins - UNIX LPE](https://gtfobins.github.io/)
